@@ -1,0 +1,17 @@
+# ninja log v5
+11	947	6948174823134603	CMakeFiles/untitled3.dir/Airline.cpp.obj	f31465b226da9cb5
+1066	1147	1672076485722288419	untitled3	67523199e12dfb7f
+5	797	6948442515210880	CMakeFiles/untitled3.dir/Menu.cpp.obj	f8cc66aad6105b8b
+2132	3003	6948443641938163	untitled3.exe	35daabeebbf17167
+2	270	6948484636811089	build.ninja	eac07d2e3cb92614
+5	2131	6948443633232205	CMakeFiles/untitled3.dir/GestaoVoos.cpp.obj	6680326dddf0d4c6
+20	952	6948140156771106	CMakeFiles/untitled3.dir/Airport.cpp.obj	dda0e7c7481a569d
+8	1920	6948140166754744	CMakeFiles/untitled3.dir/Graph.cpp.obj	4c10bbdb9bfa7147
+4	1240	6948353480096921	CMakeFiles/untitled3.dir/main.cpp.obj	d91b9f919ecca118
+65	463	6948484898663646	CMakeFiles/untitled3.dir/Airport.cpp.obj	86503c4bfdc13ed4
+108	470	6948484898743574	CMakeFiles/untitled3.dir/Airline.cpp.obj	913a71f1c4778f39
+1	769	6948484901733586	CMakeFiles/untitled3.dir/main.cpp.obj	8999e3b5f5201864
+21	809	6948484902113562	CMakeFiles/untitled3.dir/Graph.cpp.obj	45c87a22cb7f87b4
+85	906	6948484903093567	CMakeFiles/untitled3.dir/Menu.cpp.obj	4d521ee32fa40cb4
+40	2052	6948484914523882	CMakeFiles/untitled3.dir/GestaoVoos.cpp.obj	29e3e5c6a0133623
+2053	2666	6948484920602869	untitled3.exe	b48ba8055e9ced70

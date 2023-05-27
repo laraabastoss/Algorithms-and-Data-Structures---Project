@@ -1,0 +1,3 @@
+C:/Users/pickk/Downloads/trabalho_aed2/trabalho_aed2/cmake-build-debug/CMakeFiles/untitled3.dir
+C:/Users/pickk/Downloads/trabalho_aed2/trabalho_aed2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pickk/Downloads/trabalho_aed2/trabalho_aed2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
