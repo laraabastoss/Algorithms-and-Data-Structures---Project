@@ -1,3 +1,14 @@
-# Algorithms and Data Structures - Project
+# Algorithms and Data Structures 
 
-Grade: 20.0 /20
+2 year, 1 semestre
+
+## Final Grade: 19/20
+
+
+### Project 1 - Schedule Database Mannagement 
+
+- Grade: 16.9 /20
+
+### Project 2 - Airline Database Mannagement 
+
+- Grade: 20.0 /20
