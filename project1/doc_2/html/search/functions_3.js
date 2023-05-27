@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['gestaohorario_0',['GestaoHorario',['../class_gestao_horario.html#ae0360933581fe94cd42bc7504fc68e5e',1,'GestaoHorario']]],
+  ['getblocos_1',['getBlocos',['../class_turma_h.html#aa42768f642aaa68e8f1be3ba8253a5af',1,'TurmaH']]],
+  ['getcode_2',['getCode',['../class_student.html#ad123b1712daaa2bc77f5a96e01ae77f2',1,'Student']]],
+  ['getcodeturma_3',['getCodeturma',['../class_uc_turma.html#a894bf74fed9b40fbc467254eae4ee01d',1,'UcTurma']]],
+  ['getcodeuc_4',['getCodeuc',['../class_uc_turma.html#ab0463751362406c3687a718b448ab691',1,'UcTurma']]],
+  ['getdiasemana_5',['getDiaSemana',['../class_bloco.html#a096cc4913c65ad3cd778dc7307ccc158',1,'Bloco']]],
+  ['getduracao_6',['getDuracao',['../class_bloco.html#a5442c3b8f053e8b52b76a7bf47be3a8c',1,'Bloco']]],
+  ['getestado_7',['getEstado',['../class_pedido.html#ac664bf077d20faf00c3f9447919a7d89',1,'Pedido']]],
+  ['getestudantes_8',['getEstudantes',['../class_gestao_horario.html#a1fedae9329cc15775826312bbd2a1a69',1,'GestaoHorario']]],
+  ['gethorafim_9',['getHoraFim',['../class_bloco.html#aee21513bed1ca730c758691dac8b1ef9',1,'Bloco']]],
+  ['gethorainicio_10',['getHoraInicio',['../class_bloco.html#aad38cd6bf2c4a11290a56ae92802faa4',1,'Bloco']]],
+  ['getlistaaceites_11',['getListaaceites',['../class_gestao_horario.html#a26036750cae53d9922dc2754afca14e6',1,'GestaoHorario']]],
+  ['getlistaespera_12',['getListaespera',['../class_gestao_horario.html#ade72661493c752732b5b928f23732234',1,'GestaoHorario']]],
+  ['getlistarecusados_13',['getListarecusados',['../class_gestao_horario.html#a81736d8605c879bd6872af1cc962bffc',1,'GestaoHorario']]],
+  ['getlotacao_14',['getLotacao',['../class_uc_turma.html#a9ea20b5e019600576ab3856ffcc1bb38',1,'UcTurma']]],
+  ['getname_15',['getName',['../class_student.html#a134d85a189d667e7a481614c1aa67860',1,'Student']]],
+  ['getstudent_16',['getStudent',['../class_pedido.html#aef0c0db27016a36af32d876c85ad19b4',1,'Pedido']]],
+  ['gettipo_17',['getTipo',['../class_bloco.html#a1393bcdba571a7f5981fedb264c18d73',1,'Bloco']]],
+  ['getturmas_18',['getTurmas',['../class_gestao_horario.html#a44578be5459f9eea74394cd990e02ecc',1,'GestaoHorario']]],
+  ['getuc_19',['getUc',['../class_pedido.html#ab7d3c51d1873cc116dac6528ba0573b0',1,'Pedido']]],
+  ['getucturma_20',['getUcturma',['../class_student.html#ab80a5036a7754a955fe464ecbff2ef71',1,'Student::getUcturma()'],['../class_turma_h.html#a33b87cc771a2b1608bc7656ea872524b',1,'TurmaH::getUcturma()']]],
+  ['getucturmas_21',['getUcturmas',['../class_gestao_horario.html#ae3450e22b363ef6d9fe6b351707e9dd6',1,'GestaoHorario']]],
+  ['guardarpedidos_22',['guardarPedidos',['../class_gestao_horario.html#aacaaa4f88bf22dcba6bb56520aad76c2',1,'GestaoHorario']]]
+];
