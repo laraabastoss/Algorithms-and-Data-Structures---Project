@@ -5,7 +5,7 @@
 ## Final Grade: 19/20
 
 
-### Project 1 - Schedule Database Mannagement 
+### Project 1 - LEIC´s Schedule Database Mannagement 
 
 - Grade: 16.9 /20
 
