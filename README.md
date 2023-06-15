@@ -1,6 +1,6 @@
 # Algorithms and Data Structures 
 
-2 year, 1 semestre
+year 2, semestre 1
 
 ## Final Grade: 19/20
 
