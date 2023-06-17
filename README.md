@@ -9,10 +9,10 @@ year 2, semestre 1
 
 **Technologies Used:** C++
 
-**Team Members:**
-- Lara Bastos (up202108740)
-- Lia Sobral (up202108741)
-- Miguel Barros (up202108678)
+#### Developed by:
+    Lara Bastos (up202108740)
+    Lia Sobral (up202108741)
+    Miguel Barros (up202108678)
 
 **Project Repository:** https://github.com/laraabastoss/AlgorithmsAndDataStructures/tree/main/project1
 
@@ -20,9 +20,10 @@ year 2, semestre 1
 
 **Technologies Used:** C++
 
-**Team Members:**
-- Lara Bastos (up202108740)
-- Lia Sobral (up202108741)
-- Miguel Barros (up202108678)
+
+#### Developed by:
+    Lara Bastos (up202108740)
+    Lia Sobral (up202108741)
+    Miguel Barros (up202108678)
 
 **Project Repository:** https://github.com/laraabastoss/AlgorithmsAndDataStructures/tree/main/project2
