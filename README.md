@@ -20,7 +20,7 @@ Program that allows students to include or remove Curricular Units, as well as r
 
 ### Project 2 - Airline Database Mannagement (Grade: 20.0 /20)
 
-Program whose primary objective is to facilitate the visualization of the most optimal route between two specified destinations, which can be airports, cities, or specific locations defined by latitude and longitude coordinates, and search for multiple informations about the network such as top airports with the most flights. Use of graphs, implemented as an Adjacency List, to store the relevant information and various algorithms such as Depth-First Search, Breadth-First Search and an adaptation of Dijkstra's algorithm to determine the shortest path efficiently.
+Program whose primary objective is to facilitate the visualization of the most optimal route between two specified destinations and search for multiple informations about the network. Use of graphs, implemented as an Adjacency List, to store the relevant information and various algorithms such as Depth-First Search, Breadth-First Search and an adaptation of Dijkstra's algorithm to determine the shortest path efficiently.
 
 **Technologies Used:** C++
 
