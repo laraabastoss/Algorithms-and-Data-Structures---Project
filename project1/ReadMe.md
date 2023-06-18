@@ -1,6 +1,6 @@
 # Project 1 - LEIC´s Schedule Database Mannagement (Grade: 16.9 /20)
 
-Program that allows students to include or remove Curricular Units, as well as request class transfers within a specific Curricular Unit. The implementation further integrates data structures as queues, stacks, and vectors, to optimize performance and enhance functionality.
+Program that allows students to include or remove Curricular Units, as well as request class transfers within a specific Curricular Unit. The implementation further integrates data structures as queues, stacks, and vectors.
 
 **Technologies Used:** C++
 
